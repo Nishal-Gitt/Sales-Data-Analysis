@@ -1,4 +1,5 @@
-This project involved analyzing plant sales data to derive actionable insights and support decision-making through data visualization and reporting. The objective was to evaluate sales performance, track inventory levels, and identify trends to help optimize sales strategies.
+#**This project involved analyzing plant sales data to derive actionable insights and support decision-making through data visualization and reporting. The objective was to evaluate sales performance, track inventory 
+ levels, and identify trends to help optimize sales strategies.**
 
 Key Activities:
 
